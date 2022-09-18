@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-         "Hello S Stu",
+         "Hello I Mar",
           style: TextStyle(color: Colors.white, fontSize: 36.0),
         ),
       ),
