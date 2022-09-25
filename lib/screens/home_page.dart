@@ -12,7 +12,11 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
+<<<<<<< HEAD
          "Hello $userName \n Happy Day",
+=======
+         "Hello I Mar",
+>>>>>>> 66f6517581dd8a7053f9abde0f836fdb756a6065
           style: TextStyle(color: Colors.white, fontSize: 36.0),
         ),
       ),
